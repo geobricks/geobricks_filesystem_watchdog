@@ -1,2 +1,4 @@
-# geobricks_filesystem_watchdog
-Geobricks filesystem watchdog
+Geobricks Filesystem Watchdog
+==============
+
+Geobricks Filesystem Watchdog

@@ -1,0 +1,5 @@
+/dist/
+*.iml
+*.*~
+/GeobricksFileSystemWatchdog.egg-info/
+/build/
